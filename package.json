@@ -16,6 +16,7 @@
     "tailwindcss": "^3.3.3"
   },
   "devDependencies": {
+    "cypress": "^12.17.3",
     "prettier": "^3.0.1",
     "prettier-plugin-astro": "^0.11.0",
     "prettier-plugin-tailwindcss": "^0.5.2"
